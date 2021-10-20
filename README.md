@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @remoramu12
 - 👀 I’m interested in Software development.
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on insta.
+- 🌱 I’m currently learning Web development & Android development 
+- 📅 Machine learning & data science enthutiast.
+- 💞️ I’m looking to collaborate on github.
 - 📫 reach me on fb as Remo Brown
 
 <!---
